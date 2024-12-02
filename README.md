@@ -13,14 +13,21 @@
 
 ## <h3 align="center">💻Languages and Tools:</h3>
 
+## <h3 align="center">⚙️ Frameworks</h3>
+
 <p align="center"> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" alt="angular" width="50" height="50"/> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Astro.svg" alt="astro" width="50" height="50"/> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="50" height="50"/>
+<p/>  
+
+## <h3 align="center">⚙️ Languages</h3>
+<p align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cpp" width="50" height="50"/> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/>
-<p/>  
+</p>
 
 ## <h3 align="center">Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></h3>
 
