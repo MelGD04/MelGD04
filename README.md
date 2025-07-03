@@ -42,6 +42,4 @@
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelGD04&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-</p>    
-
-![Lines of Code](https://github-readme-stats.vercel.app/api?username=MelGD04&show_icons=true&count_private=true&include_all_commits=true&hide=prs&custom_title=Estadísticas&line_height=24)
+</p>   
