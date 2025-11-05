@@ -18,6 +18,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" alt="angular" width="50" height="50"/> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Astro.svg" alt="astro" width="50" height="50"/> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" alt="nextjs" width="50" height="50"/>
 <p/>  
 
 ## <h3 align="center">⚙️ Languages</h3>
@@ -37,6 +38,11 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="50" width="50" /></a>
   <a href="https://github.com/MELGD04" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="50" width="50" /></a>
+</p>
+
+##<h3 align="center">&#x1F4DA; Learning</h3>
+<p align="center">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Light.svg" alt="nestjs" witdh="50" height="50"/>
 </p>
 
 <h2 align="center"><u>My Github Stats</u></h2>
