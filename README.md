@@ -40,7 +40,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="50" width="50" /></a>
 </p>
 
-##<h3 align="center">&#x1F4DA; Learning</h3>
+## <h3 align="center">&#x1F4DA; Learning</h3>
 <p align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Light.svg" alt="nestjs" witdh="50" height="50"/>
 </p>
